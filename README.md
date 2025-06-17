@@ -1,4 +1,4 @@
-# Business-Intelligence-Portfolio
+# Business Intelligence Portfolio
 Projects I worked on while attending the Business Intelligence Analytics TripleTen Bootcamp.
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
