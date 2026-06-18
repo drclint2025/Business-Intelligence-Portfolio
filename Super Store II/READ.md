@@ -74,7 +74,7 @@ The complete project report can be viewed here:
 
 [Super Store II Project PDF](./Super%20Store%20II.pdf)
 
-## Author: ## Dr. Clinton Bullock
+## Author: Dr. Clinton Bullock
 
 Business Intelligence Portfolio
 
