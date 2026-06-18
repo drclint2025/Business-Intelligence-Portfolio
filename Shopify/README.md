@@ -26,6 +26,18 @@ What factors are associated with successful Shopify applications, and how can ap
 
 ---
 
+## Skills Demonstrated
+
+- Data Cleaning and Transformation
+- Data Visualization
+- Business Intelligence Reporting
+- KPI Development
+- Dashboard Design
+- Trend Analysis
+- Stakeholder Communication
+
+---
+
 ## Key Analysis Areas
 
 The analysis explored:
