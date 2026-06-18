@@ -1,18 +1,18 @@
 ## Shopify App Analysis
 
-This Power BI project analyzes the Shopify App Store ecosystem to identify trends in app performance, merchant adoption, user engagement, ratings, and developer success factors.
+This Power BI project analyzes the Shopify App Store ecosystem by examining app counts, review activity, ratings, and developer performance metrics. The dashboard uses interactive visualizations and filters to identify patterns in user feedback, app engagement, and marketplace trends.
 
 ## Project Overview
 
-This project analyzes the Shopify App Store ecosystem to identify trends in app performance, user satisfaction, and merchant adoption.
+The objective of this project was to analyze app ratings, review activity, categories, and developer performance within the Shopify App Store ecosystem.
 
-The objective was to examine app ratings, reviews, categories, and developer performance in order to generate actionable business insights for decision-makers.
+Using Power BI, interactive dashboards were developed to explore relationships between review volume, ratings, app categories, and developer metrics. The analysis was designed to uncover meaningful trends in marketplace activity and provide actionable insights for data-driven decision-making.
 
 ---
 
 ## Business Question
 
-What factors are associated with successful Shopify applications, and how can app developers improve visibility, engagement, and customer satisfaction?
+What relationships exist between app ratings, review activity, and developer performance within the Shopify App Store ecosystem?
 
 ---
 
@@ -68,11 +68,11 @@ The Power BI dashboard includes:
 
 The project identified meaningful patterns regarding:
 
-- High-performing app categories
-- Factors influencing user ratings
-- Developer effectiveness
-- Customer engagement behavior
-- Opportunities for increased app visibility and growth
+- Review activity across Shopify apps
+- Relationships between ratings and review volume
+- Developer rating performance
+- Helpful review trends
+- App marketplace engagement patterns
 
 ---
 
